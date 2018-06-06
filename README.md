@@ -2,6 +2,10 @@
 
 Simple angular project using the publish/subscribe mechanism from [PubNub](https://www.pubnub.com).
 
+![capture](https://user-images.githubusercontent.com/17515623/41038960-ad9affb4-69a0-11e8-91ba-47535effd730.PNG)
+|:---:|
+| **Generated chart with values** |
+
 ## PubNub set up
 
 You can check this awesome platform going [here](https://www.pubnub.com).
