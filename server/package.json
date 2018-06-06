@@ -1,0 +1,14 @@
+{
+  "name": "opcua-server",
+  "version": "1.0.0",
+  "description": "Simple server for simulating device telemetry",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Berar",
+  "license": "ISC",
+  "dependencies": {
+    "pubnub": "^4.20.3"
+  }
+}
